@@ -19,15 +19,11 @@ Here are some ideas to get you started:
 
 ![Most Used Langusges](https://github-readme-stats.vercel.app/api/top-langs/?username=kyamel&layout=compact&theme=radical&langs_count=12)
 
-
-
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=kyamel&color=blue" alt="Views"/>
   <img src="https://img.shields.io/github/commit-activity/y/kyamel/kyamel?style=flat-square" alt="Commits"/>
   <img src="https://img.shields.io/github/forks/kyamel/kyamel?style=flat-square" alt="Forks"/>
 </p>
-
 
 ### 📞Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-camelo-190756328/)
@@ -36,9 +32,7 @@ Here are some ideas to get you started:
 <br><br>
 
 <p align='left'>
-
 <img src='animatedkitty.svg' width='400'/>
-
 <div>
     <div>
     Icons made by
