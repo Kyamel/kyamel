@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=kyamel&show_icons=true&theme=radical)
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=kyamel&layout=compact&theme=radical&langs_count=16)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=kyamel&layout=compact&theme=radical&langs_count=12)
 
 
 ![Visualizações de perfil](https://komarev.com/ghpvc/?username=kyamel&color=blue)
