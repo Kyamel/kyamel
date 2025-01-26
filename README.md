@@ -19,11 +19,9 @@ Here are some ideas to get you started:
 
 ![Most Used Langusges](https://github-readme-stats.vercel.app/api/top-langs/?username=kyamel&layout=compact&theme=radical&langs_count=12)
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=kyamel&color=blue" alt="Views"/>
-  <img src="https://img.shields.io/github/commit-activity/m/kyamel/kyamel?style=flat-square" alt="Commits"/>
-  <img src="https://img.shields.io/github/forks/kyamel/kyamel?style=flat-square" alt="Forks"/>
-</p>
+![Views](https://komarev.com/ghpvc/?username=kyamel&color=blue)
+![Commits](https://img.shields.io/github/commit-activity/m/kyamel/kyamel?style=flat-square)
+![Forks](https://img.shields.io/github/forks/kyamel/kyamel?style=flat-square)
 
 ### 📞Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-camelo-190756328/)
