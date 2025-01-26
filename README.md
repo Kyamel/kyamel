@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 ![Most Used Langusges](https://github-readme-stats.vercel.app/api/top-langs/?username=kyamel&layout=compact&theme=radical&langs_count=12)
 
 ![Views](https://komarev.com/ghpvc/?username=kyamel&color=blue)
-![Commits](https://img.shields.io/github/commit-activity/m/kyamel/kyamel?style=flat-square)
-![Forks](https://img.shields.io/github/forks/kyamel/kyamel?style=flat-square)
+![Commits](https://img.shields.io/github/commit-activity/m/kyamel/kyamel)
+![Forks](https://img.shields.io/github/forks/kyamel/kyamel)
 
 ### 📞Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-camelo-190756328/)
