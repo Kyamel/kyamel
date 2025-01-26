@@ -26,7 +26,15 @@ Here are some ideas to get you started:
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucascamelo03@gmail.com)
 
 
+
+<p align='center'>
+<h1>Example of animating SVGs</h1>
+
+<h2>From:</h2>
 <img src='kitty.svg' width='400'/>
+
+<h2>To:</h2>
+<img src='animatedkitty.svg' width='400'/>
 
 <div>
     Dont forget to attribute Freepik if you use this SVG
