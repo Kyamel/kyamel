@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=kyamel&layout=compact&theme=radical)
 
-![Streak](https://streak-stats.demolab.com/?user=kyameu&theme=highcontrast)
+![Streak](https://streak-stats.demolab.com/?user=kyamel&theme=highcontrast)
 
 ![Visualizações de perfil](https://komarev.com/ghpvc/?username=kyamel&color=blue)
