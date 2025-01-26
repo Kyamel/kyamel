@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=kyamel&color=blue" alt="Views"/>
-  <img src="https://img.shields.io/github/commit-activity/y/kyamel/kyamel?style=flat-square" alt="Commits"/>
+  <img src="https://img.shields.io/github/commit-activity/m/kyamel/kyamel?style=flat-square" alt="Commits"/>
   <img src="https://img.shields.io/github/forks/kyamel/kyamel?style=flat-square" alt="Forks"/>
 </p>
 
