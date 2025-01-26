@@ -15,11 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=kyamel&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kyamel&show_icons=true&theme=radical)
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=kyamel&layout=compact&theme=radical&langs_count=12)
+![Most Used Langusges](https://github-readme-stats.vercel.app/api/top-langs/?username=kyamel&layout=compact&theme=radical&langs_count=12)
 
-![Visualizações de perfil](https://komarev.com/ghpvc/?username=kyamel&color=blue)
+
+
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=kyamel&color=blue" alt="Views"/>
+  <img src="https://img.shields.io/github/commit-activity/y/kyamel/kyamel?style=flat-square" alt="Commits"/>
+  <img src="https://img.shields.io/github/forks/kyamel/kyamel?style=flat-square" alt="Forks"/>
+</p>
+
 
 ### 📞Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-camelo-190756328/)
