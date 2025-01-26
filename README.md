@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 
 
-<p align='center'>
+<p align='left'>
 
 <img src='animatedkitty.svg' width='400'/>
 
