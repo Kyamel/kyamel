@@ -19,5 +19,8 @@ Here are some ideas to get you started:
 
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=kyamel&layout=compact&theme=radical&langs_count=12)
 
-
 ![Visualizações de perfil](https://komarev.com/ghpvc/?username=kyamel&color=blue)
+
+### 📞Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-camelo-190756328/)
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](lucascamelo03@gmail.com)
