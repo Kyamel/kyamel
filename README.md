@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kyamel&show_icons=true&theme=radical)
 
-![Most Used Langusges](https://github-readme-stats.vercel.app/api/top-langs/?username=kyamel&layout=compact&theme=radical&langs_count=12)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kyamel&layout=compact&theme=radical&langs_count=12)
 
 ![Views](https://komarev.com/ghpvc/?username=kyamel&color=blue)
 ![Commits](https://img.shields.io/github/commit-activity/m/kyamel/kyamel?style=rounded)
